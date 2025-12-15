@@ -103,8 +103,9 @@ Create a PR request
 ---
 
 Note:
-You can obtain an OpenAI trial API key for approximately $5 USD, which is sufficient to run and test the project end-to-end.
+You can obtain an OpenAI trial API key for approximately free credits of $5 USD, which is sufficient to run and test the project end-to-end.
 
 ---
+
 
 
