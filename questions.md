@@ -1,4 +1,4 @@
-## **A. Architecture Question **
+## **A. Architecture Question**
 
 **Architecture & Scalability Assessment**
 
@@ -7,7 +7,7 @@ Evaluate the current architecture’s ability to handle **10,000+ documents**, i
 
 ---
 
-## **B. Coding Question **
+## **B. Coding Question**
 
 **End-to-End System Execution, Debugging, and Enhancement**
 
@@ -74,6 +74,7 @@ Run the project locally and perform the following **coding tasks** without chang
 You may use an **OpenAI trial API key (~$5 USD)** if needed to validate the original flow before replacing it with a local LLM.
 
 ---
+
 
 
 
